@@ -1,0 +1,82 @@
+[2020-05-05 13:21:18] glpiphplog.DEBUG: Html::compileScss() in /tmp/glpi/inc/html.class.php line 6825
+css/styles.scss is new, loading  {"user":"@johanxps"} 
+[2020-05-05 13:21:24] glpiphplog.DEBUG: Html::compileScss() in /tmp/glpi/inc/html.class.php line 6825
+css/palettes/vintage.scss is new, loading  {"user":"@johanxps","mem_usage":"6.063\", 11.28Mio)"} 
+[2020-05-05 13:21:24] glpiphplog.DEBUG: Html::compileScss() in /tmp/glpi/inc/html.class.php line 6825
+css/palettes/teclib.scss is new, loading  {"user":"@johanxps","mem_usage":"0.032\", 11.26Mio)"} 
+[2020-05-05 13:21:24] glpiphplog.DEBUG: Html::compileScss() in /tmp/glpi/inc/html.class.php line 6825
+css/palettes/purplehaze.scss is new, loading  {"user":"@johanxps","mem_usage":"0.030\", 11.31Mio)"} 
+[2020-05-05 13:21:24] glpiphplog.DEBUG: Html::compileScss() in /tmp/glpi/inc/html.class.php line 6825
+css/palettes/premiumred.scss is new, loading  {"user":"@johanxps","mem_usage":"0.033\", 11.37Mio)"} 
+[2020-05-05 13:21:24] glpiphplog.DEBUG: Html::compileScss() in /tmp/glpi/inc/html.class.php line 6825
+css/palettes/lightblue.scss is new, loading  {"user":"@johanxps","mem_usage":"0.028\", 11.42Mio)"} 
+[2020-05-05 13:21:24] glpiphplog.DEBUG: Html::compileScss() in /tmp/glpi/inc/html.class.php line 6825
+css/palettes/icecream.scss is new, loading  {"user":"@johanxps","mem_usage":"0.030\", 11.47Mio)"} 
+[2020-05-05 13:21:24] glpiphplog.DEBUG: Html::compileScss() in /tmp/glpi/inc/html.class.php line 6825
+css/palettes/hipster.scss is new, loading  {"user":"@johanxps","mem_usage":"0.027\", 11.52Mio)"} 
+[2020-05-05 13:21:24] glpiphplog.DEBUG: Html::compileScss() in /tmp/glpi/inc/html.class.php line 6825
+css/palettes/greenflat.scss is new, loading  {"user":"@johanxps","mem_usage":"0.028\", 11.58Mio)"} 
+[2020-05-05 13:21:24] glpiphplog.DEBUG: Html::compileScss() in /tmp/glpi/inc/html.class.php line 6825
+css/palettes/flood.scss is new, loading  {"user":"@johanxps","mem_usage":"0.021\", 11.61Mio)"} 
+[2020-05-05 13:21:24] glpiphplog.DEBUG: Html::compileScss() in /tmp/glpi/inc/html.class.php line 6825
+css/palettes/dark.scss is new, loading  {"user":"@johanxps","mem_usage":"0.030\", 11.67Mio)"} 
+[2020-05-05 13:21:24] glpiphplog.DEBUG: Html::compileScss() in /tmp/glpi/inc/html.class.php line 6825
+css/palettes/clockworkorange.scss is new, loading  {"user":"@johanxps","mem_usage":"0.026\", 11.72Mio)"} 
+[2020-05-05 13:21:24] glpiphplog.DEBUG: Html::compileScss() in /tmp/glpi/inc/html.class.php line 6825
+css/palettes/classic.scss is new, loading  {"user":"@johanxps","mem_usage":"0.032\", 11.77Mio)"} 
+[2020-05-05 13:21:24] glpiphplog.DEBUG: Html::compileScss() in /tmp/glpi/inc/html.class.php line 6825
+css/palettes/automn.scss is new, loading  {"user":"@johanxps","mem_usage":"0.023\", 11.81Mio)"} 
+[2020-05-05 13:21:24] glpiphplog.DEBUG: Html::compileScss() in /tmp/glpi/inc/html.class.php line 6825
+css/palettes/auror.scss is new, loading  {"user":"@johanxps","mem_usage":"0.029\", 11.87Mio)"} 
+[2020-05-05 13:21:24] glpiphplog.DEBUG: Html::compileScss() in /tmp/glpi/inc/html.class.php line 6825
+css/palettes/aerialgreen.scss is new, loading  {"user":"@johanxps","mem_usage":"0.015\", 11.89Mio)"} 
+[2020-05-05 13:21:24] glpiphplog.DEBUG: Html::compileScss() in /tmp/glpi/inc/html.class.php line 6825
+css/highcontrast.scss is new, loading  {"user":"@johanxps","mem_usage":"0.023\", 11.93Mio)"} 
+[2021-12-07 14:26:56] glpiphplog.WARNING: Test logger  
+[2021-12-07 14:27:12] glpiphplog.WARNING: Test logger  
+[2021-12-07 14:28:53] glpiphplog.WARNING: Test logger  
+[2021-12-07 14:50:24] glpiphplog.WARNING: Test logger  
+[2021-12-07 15:30:19] glpiphplog.WARNING: Test logger  
+[2021-12-07 17:23:22] glpiphplog.ERROR: Plugin::getInfo() in C:\xampp\htdocs\glpi\inc\plugin.class.php line 1238
+plugin_version_glpi-modifications-2.0.2 method must be defined!  {"user":"2@DESKTOP-B5LUNCB"} 
+[2021-12-07 17:23:48] glpiphplog.ERROR: Plugin::getInfo() in C:\xampp\htdocs\glpi\inc\plugin.class.php line 1238
+plugin_version_glpi-modifications-2.0.2 method must be defined!  {"user":"2@DESKTOP-B5LUNCB"} 
+[2021-12-07 17:23:56] glpiphplog.ERROR: Plugin::getInfo() in C:\xampp\htdocs\glpi\inc\plugin.class.php line 1238
+plugin_version_glpi-modifications-2.0.2 method must be defined!  {"user":"2@DESKTOP-B5LUNCB"} 
+[2021-12-07 20:17:49] glpiphplog.WARNING: Test logger  
+[2021-12-07 20:18:11] glpiphplog.WARNING: Test logger  
+[2021-12-07 20:54:43] glpiphplog.ERROR: Toolbox::userErrorHandlerNormal() in C:\xampp\htdocs\glpi\inc\toolbox.class.php line 683
+  *** PHP Notice(8): Undefined index: glpilanguage
+  Backtrace :
+  inc\html.class.php:1205                            
+  inc\html.class.php:1880                            Html::includeHeader()
+  front\login.php:88                                 Html::nullHeader()
+  {"user":"@DESKTOP-B5LUNCB"} 
+[2021-12-07 20:54:43] glpiphplog.ERROR: Toolbox::userErrorHandlerNormal() in C:\xampp\htdocs\glpi\inc\toolbox.class.php line 683
+  *** PHP Notice(8): Undefined index: 
+  Backtrace :
+  inc\html.class.php:1205                            
+  inc\html.class.php:1880                            Html::includeHeader()
+  front\login.php:88                                 Html::nullHeader()
+  {"user":"@DESKTOP-B5LUNCB","mem_usage":"0.000\", 9.61Mio)"} 
+[2021-12-08 18:19:23] glpiphplog.ERROR: Toolbox::userErrorHandlerNormal() in C:\xampp\htdocs\glpi\inc\toolbox.class.php line 683
+  *** PHP Warning(2): preg_match(): Unknown modifier '/'
+  Backtrace :
+  :                                                  
+  inc\includes.php:153                               preg_match()
+  front\login.php:37                                 include()
+  {"user":"@DESKTOP-B5LUNCB"} 
+[2021-12-08 18:35:34] glpiphplog.ERROR: Toolbox::userErrorHandlerNormal() in C:\xampp\htdocs\glpi\inc\toolbox.class.php line 683
+  *** PHP Notice(8): Undefined index: glpilanguage
+  Backtrace :
+  inc\html.class.php:1205                            
+  inc\html.class.php:1880                            Html::includeHeader()
+  front\login.php:88                                 Html::nullHeader()
+  {"user":"@DESKTOP-B5LUNCB"} 
+[2021-12-08 18:35:34] glpiphplog.ERROR: Toolbox::userErrorHandlerNormal() in C:\xampp\htdocs\glpi\inc\toolbox.class.php line 683
+  *** PHP Notice(8): Undefined index: 
+  Backtrace :
+  inc\html.class.php:1205                            
+  inc\html.class.php:1880                            Html::includeHeader()
+  front\login.php:88                                 Html::nullHeader()
+  {"user":"@DESKTOP-B5LUNCB","mem_usage":"0.001\", 10.96Mio)"} 

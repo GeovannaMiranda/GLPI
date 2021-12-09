@@ -1,0 +1,11 @@
+[2021-12-07 20:20:38] glpisqllog.ERROR: DBmysql::query() in C:\xampp\htdocs\glpi\inc\dbmysql.class.php line 188
+  *** MySQL query error:
+  SQL: UPDATE `glpi_entities` SET `name` = 'TI' WHERE `id` = '2'
+  Error: Duplicate entry '0-TI' for key 'unicity'
+  Backtrace :
+  inc\dbmysql.class.php:948                          
+  inc\commondbtm.class.php:626                       DBmysql->update()
+  inc\commondbtm.class.php:1454                      CommonDBTM->updateInDB()
+  front\dropdown.common.form.php:106                 CommonDBTM->update()
+  front\entity.form.php:43                           include()
+  {"user":"2@DESKTOP-B5LUNCB"} 
