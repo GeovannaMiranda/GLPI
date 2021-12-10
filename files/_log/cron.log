@@ -256,3 +256,215 @@ Interno #1: Executar planningrecall
 Interno #1: Executar mailgate
 2021-12-09 16:55:09 [2@DESKTOP-B5LUNCB]
 Interno #1: Executar temp
+2021-12-09 17:41:42 [@DESKTOP-B5LUNCB]
+Interno #1: Executar graph
+2021-12-09 17:41:48 [@DESKTOP-B5LUNCB]
+Interno #1: Executar reservation
+2021-12-09 17:42:17 [@DESKTOP-B5LUNCB]
+Interno #1: Executar ticketrecurrent
+2021-12-09 17:42:21 [@DESKTOP-B5LUNCB]
+Interno #1: Executar closeticket
+2021-12-09 17:45:47 [@DESKTOP-B5LUNCB]
+Interno #1: Executar alertnotclosed
+2021-12-09 17:46:19 [2@DESKTOP-B5LUNCB]
+Interno #1: Executar queuednotification
+2021-12-09 17:46:57 [@DESKTOP-B5LUNCB]
+Interno #1: Executar slaticket
+2021-12-09 17:49:15 [@DESKTOP-B5LUNCB]
+Interno #1: Executar olaticket
+2021-12-09 17:49:30 [@DESKTOP-B5LUNCB]
+Interno #1: Executar planningrecall
+2021-12-09 17:53:27 [2@DESKTOP-B5LUNCB]
+Interno #1: Executar mailgate
+2021-12-09 17:54:18 [@DESKTOP-B5LUNCB]
+Interno #1: Executar queuednotification
+2021-12-09 19:05:00 [2@DESKTOP-B5LUNCB]
+Interno #1: Executar slaticket
+2021-12-09 19:07:20 [@DESKTOP-B5LUNCB]
+Interno #1: Executar planningrecall
+2021-12-09 19:18:46 [2@DESKTOP-B5LUNCB]
+Interno #1: Executar olaticket
+2021-12-09 19:25:18 [2@DESKTOP-B5LUNCB]
+Interno #1: Executar queuednotification
+2021-12-09 19:28:14 [@DESKTOP-B5LUNCB]
+Interno #1: Executar temp
+2021-12-09 19:33:10 [@DESKTOP-B5LUNCB]
+Interno #1: Executar mailgate
+2021-12-09 19:34:04 [2@DESKTOP-B5LUNCB]
+Interno #1: Executar createinquest
+2021-12-09 19:37:03 [2@DESKTOP-B5LUNCB]
+Interno #1: Executar watcher
+2021-12-09 19:45:19 [2@DESKTOP-B5LUNCB]
+Interno #1: Executar graph
+2021-12-09 19:57:03 [2@DESKTOP-B5LUNCB]
+Interno #1: Executar reservation
+2021-12-09 19:58:39 [@DESKTOP-B5LUNCB]
+Interno #1: Executar ticketrecurrent
+2021-12-09 19:59:21 [@DESKTOP-B5LUNCB]
+Interno #1: Executar queuednotificationclean
+2021-12-09 19:59:27 [@DESKTOP-B5LUNCB]
+Interno #1: Executar contract
+2021-12-09 20:02:21 [@DESKTOP-B5LUNCB]
+Interno #1: Executar mailgateerror
+2021-12-09 20:03:04 [@DESKTOP-B5LUNCB]
+Interno #1: Executar infocom
+2021-12-09 20:03:32 [@DESKTOP-B5LUNCB]
+Interno #1: Executar session
+2021-12-09 20:03:47 [@DESKTOP-B5LUNCB]
+Interno #1: Executar slaticket
+2021-12-09 20:04:24 [@DESKTOP-B5LUNCB]
+Interno #1: Executar planningrecall
+2021-12-09 20:04:54 [2@DESKTOP-B5LUNCB]
+Interno #1: Executar olaticket
+2021-12-09 20:06:01 [@DESKTOP-B5LUNCB]
+Interno #1: Executar queuednotification
+2021-12-09 20:07:14 [@DESKTOP-B5LUNCB]
+Interno #1: Executar mailgate
+2021-12-09 20:07:28 [@DESKTOP-B5LUNCB]
+Interno #1: Executar queuednotification
+2021-12-09 20:10:46 [2@DESKTOP-B5LUNCB]
+Interno #1: Executar slaticket
+2021-12-09 20:11:41 [@DESKTOP-B5LUNCB]
+Interno #1: Executar queuednotification
+2021-12-09 20:14:52 [@DESKTOP-B5LUNCB]
+Interno #1: Executar planningrecall
+2021-12-09 20:22:56 [2@DESKTOP-B5LUNCB]
+Interno #1: Executar olaticket
+2021-12-09 20:32:29 [2@DESKTOP-B5LUNCB]
+Interno #1: Executar queuednotification
+2021-12-09 20:40:05 [2@DESKTOP-B5LUNCB]
+Interno #1: Executar slaticket
+2021-12-09 20:45:26 [2@DESKTOP-B5LUNCB]
+Interno #1: Executar mailgate
+2021-12-09 20:46:41 [10@DESKTOP-B5LUNCB]
+Interno #1: Executar planningrecall
+2021-12-10 13:44:01 [2@DESKTOP-B5LUNCB]
+Interno #1: Executar olaticket
+2021-12-10 13:49:31 [2@DESKTOP-B5LUNCB]
+Interno #1: Executar temp
+2021-12-10 13:58:26 [2@DESKTOP-B5LUNCB]
+Interno #1: Executar queuednotification
+2021-12-10 14:02:57 [@DESKTOP-B5LUNCB]
+Interno #1: Executar graph
+2021-12-10 14:03:43 [2@DESKTOP-B5LUNCB]
+Interno #1: Executar slaticket
+2021-12-10 14:18:45 [2@DESKTOP-B5LUNCB]
+Interno #1: Executar planningrecall
+2021-12-10 14:23:47 [2@DESKTOP-B5LUNCB]
+Interno #1: Executar mailgate
+2021-12-10 14:48:31 [@DESKTOP-B5LUNCB]
+Interno #1: Executar reservation
+2021-12-10 14:54:41 [2@DESKTOP-B5LUNCB]
+Interno #1: Executar ticketrecurrent
+2021-12-10 14:56:07 [@DESKTOP-B5LUNCB]
+Interno #1: Executar closeticket
+2021-12-10 14:56:59 [@DESKTOP-B5LUNCB]
+Interno #1: Executar alertnotclosed
+2021-12-10 14:59:28 [@DESKTOP-B5LUNCB]
+Interno #1: Executar olaticket
+2021-12-10 15:01:31 [2@DESKTOP-B5LUNCB]
+Interno #1: Executar queuednotification
+2021-12-10 15:01:56 [@DESKTOP-B5LUNCB]
+Interno #1: Executar slaticket
+2021-12-10 15:03:20 [@DESKTOP-B5LUNCB]
+Interno #1: Executar planningrecall
+2021-12-10 15:04:55 [@DESKTOP-B5LUNCB]
+Interno #1: Executar mailgate
+2021-12-10 15:05:59 [@DESKTOP-B5LUNCB]
+Interno #1: Executar temp
+2021-12-10 15:07:57 [@DESKTOP-B5LUNCB]
+Interno #1: Executar graph
+2021-12-10 15:08:05 [2@DESKTOP-B5LUNCB]
+Interno #1: Executar queuednotification
+2021-12-10 15:10:00 [@DESKTOP-B5LUNCB]
+Interno #1: Executar olaticket
+2021-12-10 15:10:22 [@DESKTOP-B5LUNCB]
+Interno #1: Executar slaticket
+2021-12-10 15:29:35 [@DESKTOP-B5LUNCB]
+Interno #1: Executar planningrecall
+2021-12-10 15:30:14 [2@DESKTOP-B5LUNCB]
+Interno #1: Executar queuednotification
+2021-12-10 15:31:33 [@DESKTOP-B5LUNCB]
+Interno #1: Executar mailgate
+2021-12-10 15:33:23 [@DESKTOP-B5LUNCB]
+Interno #1: Executar slaticket
+2021-12-10 15:35:10 [@DESKTOP-B5LUNCB]
+Interno #1: Executar olaticket
+2021-12-10 15:35:16 [2@DESKTOP-B5LUNCB]
+Interno #1: Executar queuednotification
+2021-12-10 15:40:17 [2@DESKTOP-B5LUNCB]
+Interno #1: Executar planningrecall
+2021-12-10 15:40:45 [@DESKTOP-B5LUNCB]
+Interno #1: Executar queuednotification
+2021-12-10 15:41:29 [@DESKTOP-B5LUNCB]
+Interno #1: Executar slaticket
+2021-12-10 15:43:47 [@DESKTOP-B5LUNCB]
+Interno #1: Executar olaticket
+2021-12-10 15:45:14 [@DESKTOP-B5LUNCB]
+Interno #1: Executar mailgate
+2021-12-10 15:46:04 [2@DESKTOP-B5LUNCB]
+Interno #1: Executar queuednotification
+2021-12-10 15:46:44 [@DESKTOP-B5LUNCB]
+Interno #1: Executar planningrecall
+2021-12-10 15:48:06 [@DESKTOP-B5LUNCB]
+Interno #1: Executar slaticket
+2021-12-10 15:48:33 [@DESKTOP-B5LUNCB]
+Interno #1: Executar queuednotification
+2021-12-10 15:49:57 [@DESKTOP-B5LUNCB]
+Interno #1: Executar reservation
+2021-12-10 15:50:46 [@DESKTOP-B5LUNCB]
+Interno #1: Executar olaticket
+2021-12-10 15:51:09 [2@DESKTOP-B5LUNCB]
+Interno #1: Executar queuednotification
+2021-12-10 15:55:04 [@DESKTOP-B5LUNCB]
+Interno #1: Executar planningrecall
+2021-12-10 15:56:04 [@DESKTOP-B5LUNCB]
+Interno #1: Executar queuednotification
+2021-12-10 15:57:17 [2@DESKTOP-B5LUNCB]
+Interno #1: Executar slaticket
+2021-12-10 15:57:28 [@DESKTOP-B5LUNCB]
+Interno #1: Executar ticketrecurrent
+2021-12-10 15:58:12 [@DESKTOP-B5LUNCB]
+Interno #1: Executar mailgate
+2021-12-10 16:02:23 [@DESKTOP-B5LUNCB]
+Interno #1: Executar olaticket
+2021-12-10 16:03:13 [@DESKTOP-B5LUNCB]
+Interno #1: Executar queuednotification
+2021-12-10 16:05:00 [2@DESKTOP-B5LUNCB]
+Interno #1: Executar planningrecall
+2021-12-10 16:09:27 [11@DESKTOP-B5LUNCB]
+Interno #1: Executar slaticket
+2021-12-10 16:09:52 [@DESKTOP-B5LUNCB]
+Interno #1: Executar queuednotification
+2021-12-10 16:11:24 [@DESKTOP-B5LUNCB]
+Interno #1: Executar temp
+2021-12-10 16:11:56 [2@DESKTOP-B5LUNCB]
+Interno #1: Executar graph
+2021-12-10 16:16:38 [11@DESKTOP-B5LUNCB]
+Interno #1: Executar olaticket
+2021-12-10 16:17:06 [2@DESKTOP-B5LUNCB]
+Interno #1: Executar mailgate
+2021-12-10 16:18:27 [@DESKTOP-B5LUNCB]
+Interno #1: Executar planningrecall
+2021-12-10 16:20:10 [@DESKTOP-B5LUNCB]
+Interno #1: Executar queuednotification
+2021-12-10 16:22:31 [@DESKTOP-B5LUNCB]
+Interno #1: Executar slaticket
+2021-12-10 16:22:54 [2@DESKTOP-B5LUNCB]
+Interno #1: Executar queuednotification
+2021-12-10 16:24:41 [@DESKTOP-B5LUNCB]
+Interno #1: Executar olaticket
+2021-12-10 16:25:30 [@DESKTOP-B5LUNCB]
+Interno #1: Executar planningrecall
+2021-12-10 16:46:24 [2@DESKTOP-B5LUNCB]
+Interno #1: Executar queuednotification
+2021-12-10 16:46:44 [11@DESKTOP-B5LUNCB]
+Interno #1: Executar mailgate
+2021-12-10 16:52:26 [11@DESKTOP-B5LUNCB]
+Interno #1: Executar slaticket
+2021-12-10 16:53:21 [2@DESKTOP-B5LUNCB]
+Interno #1: Executar olaticket
+2021-12-10 16:59:23 [11@DESKTOP-B5LUNCB]
+Interno #1: Executar planningrecall
+2021-12-10 17:10:31 [2@DESKTOP-B5LUNCB]
+Interno #1: Executar queuednotification

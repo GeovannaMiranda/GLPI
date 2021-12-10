@@ -80,3 +80,36 @@ plugin_version_glpi-modifications-2.0.2 method must be defined!  {"user":"2@DESK
   inc\html.class.php:1880                            Html::includeHeader()
   front\login.php:88                                 Html::nullHeader()
   {"user":"@DESKTOP-B5LUNCB","mem_usage":"0.001\", 10.96Mio)"} 
+[2021-12-09 19:24:42] glpiphplog.WARNING: Test logger  
+[2021-12-09 19:26:02] glpiphplog.WARNING: Test logger  
+[2021-12-09 19:26:28] glpiphplog.WARNING: Test logger  
+[2021-12-09 19:27:05] glpiphplog.WARNING: Test logger  
+[2021-12-09 19:33:28] glpiphplog.ERROR: Toolbox::userErrorHandlerNormal() in C:\xampp\htdocs\glpi\inc\toolbox.class.php line 683
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc\auth.class.php:1231                            
+  index.php:66                                       Auth::redirectIfAuthenticated()
+  {"user":"11@DESKTOP-B5LUNCB"} 
+[2021-12-09 19:58:53] glpiphplog.ERROR: Toolbox::userErrorHandlerNormal() in C:\xampp\htdocs\glpi\inc\toolbox.class.php line 683
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc\auth.class.php:1231                            
+  index.php:66                                       Auth::redirectIfAuthenticated()
+  {"user":"11@DESKTOP-B5LUNCB"} 
+[2021-12-09 20:03:12] glpiphplog.ERROR: Toolbox::userErrorHandlerNormal() in C:\xampp\htdocs\glpi\inc\toolbox.class.php line 683
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc\auth.class.php:1231                            
+  index.php:66                                       Auth::redirectIfAuthenticated()
+  {"user":"11@DESKTOP-B5LUNCB"} 
+[2021-12-09 20:34:08] glpiphplog.DEBUG: Html::compileScss() in C:\xampp\htdocs\glpi\inc\html.class.php line 6825
+css/palettes/dark.scss is new, loading  {"user":"2@DESKTOP-B5LUNCB"} 
+[2021-12-09 20:34:08] glpiphplog.DEBUG: Html::compileScss() in C:\xampp\htdocs\glpi\inc\html.class.php line 6825
+css/styles.scss is new, loading  {"user":"2@DESKTOP-B5LUNCB"} 
+[2021-12-10 14:03:25] glpiphplog.ERROR: Toolbox::userErrorHandlerNormal() in C:\xampp\htdocs\glpi\inc\toolbox.class.php line 683
+  *** PHP Notice(8): Undefined index: glpiactiveprofile
+  Backtrace :
+  inc\auth.class.php:1231                            
+  index.php:66                                       Auth::redirectIfAuthenticated()
+  {"user":"11@DESKTOP-B5LUNCB"} 
+[2021-12-10 16:15:36] glpiphplog.WARNING: Test logger  
